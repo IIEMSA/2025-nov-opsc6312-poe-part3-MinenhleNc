@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default app colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Unique badge colors -->
+    <color name="red_badge">#DB8B84</color>        <!-- Badge 1 -->
+    <color name="orange_badge">#FFA94D</color>     <!-- Badge 2 -->
+    <color name="yellow_badge">#FFD43B</color>     <!-- Badge 3 -->
+    <color name="green_badge">#69DB7C</color>      <!-- Badge 4 -->
+    <color name="teal_badge">#38D9A9</color>       <!-- Badge 5 -->
+    <color name="blue_badge">#4DABF7</color>       <!-- Badge 6 -->
+    <color name="purple_badge">#9775FA</color>     <!-- Badge 7 -->
+    <color name="pink_badge">#F783AC</color>       <!-- Badge 8 -->
+
+    <!-- Locked (gray) badge color -->
+    <color name="gray_badge">#E0E0E0</color>
+</resources>
