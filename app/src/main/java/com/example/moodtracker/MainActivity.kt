@@ -279,6 +279,3 @@ interface WeatherAPI {
 data class WeatherResponse(val name: String, val main: Main, val weather: List<WeatherItem>)
 data class Main(val temp: Double)
 data class WeatherItem(val main: String)
-/ /   A u t h o r :   A b o n g i l e   M a z o n g o l o 
- / /   A d d   n u l l   c h e c k s   i n   M a i n A c t i v i t y  
- 
