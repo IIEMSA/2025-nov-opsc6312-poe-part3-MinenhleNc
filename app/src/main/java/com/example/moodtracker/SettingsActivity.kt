@@ -338,6 +338,3 @@ class SettingsActivity : AppCompatActivity() {
         }
     }
 }
-/ /   A u t h o r :   B r a n d o n   C h o g a 
- / /   A d d   s e t t i n g s   v a l i d a t i o n   i n   S e t t i n g s A c t i v i t y  
- 
