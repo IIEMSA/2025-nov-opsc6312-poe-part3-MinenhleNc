@@ -104,25 +104,14 @@ MoodTracker is a mobile application designed to help users track and manage thei
 ---
 
 ## Screenshots
-*(Include screenshots here in your repo with proper relative paths)*  
-![WhatsApp Image 2025-11-14 at 22 13 23_a088dd87](https://github.com/user-attachments/assets/e1a70e8c-4823-4df9-8c2e-36435beeea3b)
-
-1. Login Screen
-   ![WhatsApp Image 2025-11-14 at 22 13 23_8343f5db](https://github.com/user-attachments/assets/200a75c6-461e-4149-8916-6eb0c7161010)
-
-2. Home / Mood Logging
-    ![WhatsApp Image 2025-11-14 at 22 13 23_fdb67577](https://github.com/user-attachments/assets/0275caf3-1fe9-4055-b166-210ab6114105)
-
-3. Mood History
-   ![WhatsApp Image 2025-11-14 at 22 13 23_075f3c9c](https://github.com/user-attachments/assets/317dedbf-c805-4477-9e6d-adc2bec9dbdc)
-
-4. Rewards & Insights
-    ![WhatsApp Image 2025-11-14 at 22 13 23_9dd23560](https://github.com/user-attachments/assets/e0cddf20-841a-4d90-9bf1-eba017f1a361)
-   ![WhatsApp Image 2025-11-14 at 22 13 24_7104382c](https://github.com/user-attachments/assets/1c21b028-8b53-4403-a6f2-f6b4ee304ff3)
+![IMG-20251114-WA0015](https://github.com/user-attachments/assets/5a43b374-3f3d-48f3-b553-6a5addf61f92)
+![IMG-20251114-WA0016](https://github.com/user-attachments/assets/92e4f274-b783-4f95-8eda-fd9a4a756206)
+![IMG-20251114-WA0017](https://github.com/user-attachments/assets/b2164d3b-69ed-4f36-96cc-39e1e6016ea1)
+![IMG-20251114-WA0018](https://github.com/user-attachments/assets/54bb1b90-9f3f-4d05-a88c-40cb9a2a5e72)
+![IMG-20251114-WA0019](https://github.com/user-attachments/assets/c3ea7df0-8c08-46cf-8742-150dac41b39a)
+![IMG-20251114-WA0020](https://github.com/user-attachments/assets/416f7c84-f01c-4dc2-be2d-6248e7d5d434)
 
 
-5. Settings Page (Notifications, Export, Delete Account, App Info, Language Selection)
-   ![WhatsApp Image 2025-11-14 at 22 13 24_8cfb61e7](https://github.com/user-attachments/assets/084e656a-2498-4c02-8617-d50be4cdee0e)
 
 
 ---
