@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MoodTracker</string>
+    <string name="weather_api_key" translatable="false">acc72caa807241567903da074f187320</string>
+    <string name="app_subtitle" translatable="false">Track your moods and improve wellbeing</string>
+    <string name="default_web_client_id">1046720956705-he2m3s02dlhg3etdv8frckj0ukomoiau.apps.googleusercontent.com</string>
+    <!--  Login / Welcome  -->
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="sign_in_subtext">Sign in to continue tracking your mood</string>
+    <string name="sign_in">Sign In</string>
+    <string name="or_continue_with">Or continue with</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="register_link">Don\'t have an account? Register</string>
+    <!--  EditText hints  -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="name_hint">Name</string>
+    <string name="surname_hint">Surname</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <!--  Registration  -->
+    <string name="register">Register</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="registration_success">Registered successfully</string>
+    <string name="registration_failed">Registration failed: %1$s</string>
+    <!--  Login  -->
+    <string name="login_failed">Login failed</string>
+    <!--  Settings / Export / Delete  -->
+    <string name="export_data_title">Export Data</string>
+    <string name="export_data_message">Do you want to export your mood data to a TXT file?</string>
+    <string name="delete_all_title">Delete All Data</string>
+    <string name="delete_all_message">Are you sure you want to delete all mood data? This action cannot be undone.</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="data_exported">Data exported to %1$s</string>
+    <string name="export_failed">Export failed</string>
+    <string name="data_deleted">All data deleted successfully</string>
+    <string name="delete_failed">Delete failed</string>
+</resources>
